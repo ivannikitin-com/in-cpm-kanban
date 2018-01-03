@@ -1,0 +1,3 @@
+[submodule "assets/kanban"]
+	path = assets/kanban
+	url = git@github.com:sean-codes/kanban.git
